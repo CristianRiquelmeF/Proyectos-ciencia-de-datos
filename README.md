@@ -2,7 +2,8 @@
 Este repositorio alberga una colección de proyectos realizados durante mi diplomado en Data Science en la Universidad de Santiago de Chile. Los proyectos están desarrollados en Python utilizando la plataforma de Google Colab. Aquí, podrás explorar mi capacidad para procesar y analizar datos, generar estadísticas descriptivas e inferenciales, así como aplicar modelos de Machine Learning en casos prácticos. Bienvenido a mi repositorio de trabajo en Data Science.
 
 ---
-Proyectos Destacados
+# Proyectos Destacados
+
 A continuación, se presenta un resumen de los proyectos incluidos en este portafolio:
 
 **1. Análisis Exploratorio y Visualización Gráfica** 
@@ -28,19 +29,19 @@ A continuación, se presenta un resumen de los proyectos incluidos en este porta
 **5. Reporte y Script en R-Markdown**
   - Archivos: R-Markdown.pdf, Script R-Markdown.Rmd
 
-  - Descripción: Demostración de habilidades en R y R-Markdown para la creación de reportes dinámicos y reproducibles, combinando código, análisis y visualizaciones en un único documento.
+  - Descripción: Demostración de habilidades en R y R-Markdown para la creación de reportes dinámicos y reproducibles, combinando código, análisis y visualizaciones en un único documento. Se aplica análisis exploratorio y estadísticas inferenciales a datos bancarios.
 
 ---
 
-Habilidades y Tecnologías
+**Habilidades y Tecnologías**
 Los proyectos de este portafolio demuestran mi competencia en las siguientes herramientas y técnicas:
 
-Lenguajes de Programación: Python, R
+  - Lenguajes de Programación: Python, R
 
-Librerías de Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
+  - Librerías de Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
 
-Técnicas: Análisis Exploratorio de Datos (EDA), Visualización de Datos, Modelado Predictivo, Regresión Lineal, Modelos de Clasificación, Machine Learning.
+  - Técnicas: Análisis Exploratorio de Datos (EDA), Visualización de Datos, Modelado Predictivo, Regresión Lineal, Modelos de Clasificación, Machine Learning.
 
-Herramientas: Jupyter Notebooks, RStudio, Git, GitHub.
+  - Herramientas: Jupyter Notebooks, RStudio, Git, GitHub.
 
 ---
