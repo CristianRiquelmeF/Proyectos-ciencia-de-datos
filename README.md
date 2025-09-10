@@ -1,14 +1,14 @@
 # Repositorio de Ciencia de Datos
 Este repositorio alberga una colección de proyectos realizados durante mi diplomado en Data Science en la Universidad de Santiago de Chile. Los proyectos están desarrollados en Python utilizando la plataforma de Google Colab. Aquí, podrás explorar mi capacidad para procesar y analizar datos, generar estadísticas descriptivas e inferenciales, así como aplicar modelos de Machine Learning en casos prácticos. Bienvenido a mi repositorio de trabajo en Data Science.
 
-
+---
 Proyectos Destacados
 A continuación, se presenta un resumen de los proyectos incluidos en este portafolio:
 
-1. Análisis Exploratorio y Visualización Gráfica
-Archivo: Análisis_exploratorio_y_visualización_gráfica_Cristian_Riquelme.ipynb
+**1. Análisis Exploratorio y Visualización Gráfica** 
+  - Archivo: Análisis_exploratorio_y_visualización_gráfica_Cristian_Riquelme.ipynb
 
-Descripción: En este proyecto, realizo un análisis exploratorio de datos (EDA) para descubrir patrones, anomalías y relaciones en un conjunto de datos. Se aplican diversas técnicas de visualización para comunicar los hallazgos de manera clara y efectiva.
+  - Descripción: En este proyecto, realizo un análisis exploratorio de datos (EDA) para descubrir patrones, anomalías y relaciones en un conjunto de datos. Se aplican diversas técnicas de visualización para comunicar los hallazgos de manera clara y efectiva.
 
 2. Correlación y Modelo de Regresión Lineal Múltiple
 Archivo: EDA_Correlación_y_Modelo_de_Regresión_Lineal_Múltiple.ipynb
